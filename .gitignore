@@ -8,7 +8,8 @@ target/
 *.iws
 *.iml
 *.ipr
-
+*.class
+workspace.xml
 ### Eclipse ###
 .apt_generated
 .classpath
