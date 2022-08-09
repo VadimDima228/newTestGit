@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="926a9a22-b6b5-4862-b5de-d6c2b80ab670" name="Changes" comment="00">
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/00" beforeDir="false" />
+    <list default="true" id="926a9a22-b6b5-4862-b5de-d6c2b80ab670" name="Changes" comment="revert">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/2e2e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,9 +16,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2D5Ij7sQp5zdmT4VNdD3bed64vc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,49 +45,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659984893695</updated>
     </task>
-    <task id="LOCAL-00002" summary="add 123.txt">
-      <created>1660065990514</created>
+    <task id="LOCAL-00002" summary="push">
+      <created>1660067572435</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1660065990514</updated>
+      <updated>1660067572435</updated>
     </task>
-    <task id="LOCAL-00003" summary="add 12">
-      <created>1660066247968</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1660066247968</updated>
-    </task>
-    <task id="LOCAL-00004" summary="1234">
-      <created>1660066347861</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1660066347861</updated>
-    </task>
-    <task id="LOCAL-00005" summary="-1234">
-      <created>1660066373081</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1660066373081</updated>
-    </task>
-    <task id="LOCAL-00006" summary="-1234">
-      <created>1660066401273</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1660066401273</updated>
-    </task>
-    <task id="LOCAL-00007" summary="00">
-      <created>1660066414689</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1660066414689</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,11 +68,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="revert" />
-    <MESSAGE value="add 123.txt" />
-    <MESSAGE value="add 12" />
-    <MESSAGE value="1234" />
-    <MESSAGE value="-1234" />
-    <MESSAGE value="00" />
-    <option name="LAST_COMMIT_MESSAGE" value="00" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
 </project>
