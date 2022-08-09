@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="926a9a22-b6b5-4862-b5de-d6c2b80ab670" name="Changes" comment="revert Hello World">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/123.txt" afterDir="false" />
+    <list default="true" id="926a9a22-b6b5-4862-b5de-d6c2b80ab670" name="Changes" comment="revert">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
